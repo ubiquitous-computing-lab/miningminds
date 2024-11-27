@@ -11,7 +11,7 @@
 		<org.aspectj-version>1.7.4</org.aspectj-version>
 		<org.slf4j-version>1.7.5</org.slf4j-version>
 		<hibernate.version>4.3.5.Final</hibernate.version>
-		<jackson.databind-version>2.2.3</jackson.databind-version>
+		<jackson.databind-version>2.9.10.5</jackson.databind-version>
 	</properties>
 	<name>AuthoringEnvironment Maven Webapp</name>
 	<url>http://maven.apache.org</url>

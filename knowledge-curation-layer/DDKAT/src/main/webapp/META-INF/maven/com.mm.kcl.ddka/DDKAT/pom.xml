@@ -10,7 +10,7 @@
 	<url>http://maven.apache.org</url>
 
 	<properties>
-		<spring.version>4.0.1.RELEASE</spring.version>
+		<spring.version>5.2.7.RELEASE</spring.version>
 		<org.slf4j-version>1.7.5</org.slf4j-version>
 		<jcolibri.version>2.1</jcolibri.version>
 	</properties>
